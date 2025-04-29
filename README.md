@@ -1,7 +1,7 @@
 # DeFi Selenium Bot
 A high-performance, open-source DeFi trading bot for sniping tokens, executing strategies, and managing risk across multiple networks and DEXs.
 
-<p align="center"><img width="720" height="463" src="defibot.png" alt="Defi Bot interface" /></p>
+<p align="center"><img width="720" height="463" src="DeFi Bot.png" alt="Defi Bot interface" /></p>
 
 ## Features
 - Instant trading with direct validator node interaction
