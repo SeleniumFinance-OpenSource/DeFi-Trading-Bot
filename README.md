@@ -5,6 +5,7 @@ A high-performance, open-source DeFi trading bot for sniping tokens, executing s
 
 ## Features
 - Instant trading with direct validator node interaction
+
 When you trade manually through trust wallet or metamask wallets, you spend 20 to 60 seconds on the token verification and transaction confirmation processes. With our bot, the processes of selling and buying is instant, because they go directly to the network of the validator
 
 - Token sniping (new listings, Pinksale).
