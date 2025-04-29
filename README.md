@@ -5,12 +5,14 @@ A high-performance, open-source DeFi trading bot for sniping tokens, executing s
 
 ## Features
 - Instant trading with direct validator node interaction
-- Token sniping (new listings, Pinksale)
-- Scam protection with auto-sell on price drops
-- Automated strategies (buy-the-dip, trailing stop-loss)
-- Telegram and Discord monitoring
-- Support for multiple networks (ETH, BSC, AVAX, etc.)
-- Integration with major DEXs (Uniswap, Pancakeswap, etc.)
+When you trade manually through trust wallet or metamask wallets, you spend 20 to 60 seconds on the token verification and transaction confirmation processes. With our bot, the processes of selling and buying is instant, because they go directly to the network of the validator
+
+- Token sniping (new listings, Pinksale).
+- Scam protection with auto-sell on price drops.
+- Automated strategies (buy-the-dip, trailing stop-loss, take profit, limit order, other)
+- Telegram and Discord monitoring.
+- Support for multiple networks (ETH, BSC, AVAX, etc.).
+- Integration with major DEXs (Uniswap, Pancakeswap, etc.).
 
 # LICENSE
 Copyright (c) 2025 James Kaligean
